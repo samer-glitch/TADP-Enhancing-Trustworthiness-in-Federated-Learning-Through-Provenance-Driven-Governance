@@ -13,6 +13,12 @@ The numbered notebooks contain the experiments reported in the manuscript. Each 
 
 The experiments use eight automated data-quality factors and 20 synthetically generated documentary factors.
 
+The numbered notebooks correspond to the experiments
+and analyses reported in the manuscript. They include
+the main benchmarks, threshold sensitivity,
+documentary-score sensitivity, contribution audits,
+and ledger verification.
+
 ### Datasets
 - [Adult — UCI Repository](https://archive.ics.uci.edu/dataset/2/adult)
 - [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)
